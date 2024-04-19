@@ -1,0 +1,7 @@
+{
+	"obj" : "sword.obj",
+	"albedo" : "custom/fish_scale_basecolor.png",
+	"metallic" : "custom/fish_scale_metallic.png",
+	"normal" : "custom/fish_scale_normal.png",
+	"roughness" : "custom/fish_scale_roughness.png"
+}
