@@ -10,6 +10,10 @@
 ![](renderResults/5.jpg) 
 ![](renderResults/6.jpg) 
 
+# Displacement Map
+
+![](obsidianRotatedCamera.png) 
+
 #  Renders with Diff Metallic & Roughness Value
 
 | 1 Metallic 0 Roughness|
@@ -34,4 +38,4 @@
 
 | 1 Metallic 1 Roughness|
 | ------------------------------------ |
-| ![](fullPlastic0Rough.png.png)         |
+| ![](fullPlastic0Rough.png)         |
